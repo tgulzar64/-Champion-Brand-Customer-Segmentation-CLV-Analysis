@@ -5,7 +5,7 @@
 
 ## 🎯 Project Overview
 
-This project applies **RFM (Recency, Frequency, Monetary) segmentation** to Champion's customer base, delivering data-driven marketing strategies for the brand's transition to Authentic Brands Group ownership. Using **SAS Studio**, we identified four distinct customer segments and developed targeted campaigns to maximize customer lifetime value (CLV) and optimize marketing spend allocation.
+This project applies **RFM (Recency, Frequency, Monetary) segmentation** to Champion's customer base of 20,907 users, delivering data-driven marketing strategies for the brand's transition to Authentic Brands Group ownership. Using **SAS Studio**, we identified four distinct customer segments and developed targeted campaigns to maximize customer lifetime value (CLV) and optimize marketing spend allocation.
 
 📌 *Group project completed for MKT 6300: Advanced Marketing Analytics*
 
